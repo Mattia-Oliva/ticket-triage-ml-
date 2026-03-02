@@ -1,0 +1,101 @@
+text,categoria_reale,categoria_prevista,priorita_reale,priorita_prevista
+segnalazione su promozione il cliente ha segnalato che illa promozione non corrisponde alla richiesta,Commerciale,Commerciale,bassa,bassa
+guasto stampante di rete urgente stampante di rete mostra messaggi di errore reparto fermo attendo riscontro entro oggi se possibile,Tecnico,Tecnico,media,media
+verifica f24 in riferimento alalla f24 è in sospeso attendo riscontro sollecito cortesemente una risposta,Amministrazione,Amministrazione,media,media
+guasto software gestionale da ieri illa software gestionale non si avvia impossibile lavorare urgente il reparto è fermo,Tecnico,Tecnico,alta,alta
+listino prezzi da rivedere gentilmente illa listino prezzi non corrisponde alla richiesta attendo aggiornamento è un errore critico che impedisce loperatività,Commerciale,Commerciale,alta,alta
+problema con campione gratuito gentilmente illa campione gratuito è scaduto attendo aggiornamento,Commerciale,Commerciale,bassa,bassa
+segnalazione errore su estratto conto illa estratto conto relativo al mese corrente va ricalcolato attendo riscontro entro oggi se possibile,Amministrazione,Amministrazione,media,media
+problema con schermata blu da ieri illa schermata blu non risponde ai comandi impossibile lavorare impossibile lavorare senza risoluzione,Tecnico,Tecnico,alta,alta
+segnalazione errore su partita iva segnalo che illa partita iva non è stato registrato e necessita intervento la scadenza è imminente serve un riscontro,Amministrazione,Amministrazione,media,media
+guasto firewall illa firewall ha smesso di funzionare da questa mattina,Tecnico,Tecnico,bassa,bassa
+verifica ricevuta si richiede la rettifica deldella ricevuta in quanto è in sospeso,Amministrazione,Amministrazione,bassa,bassa
+segnalazione errore su f24 segnalo che illa f24 non è stato emesso e necessita intervento lanomalia va risolta in tempi brevi,Amministrazione,Amministrazione,media,media
+errore connessione vpn illa connessione vpn si blocca allavvio ho già provato a riavviare sollecito cortesemente una risposta,Tecnico,Tecnico,media,media
+malfunzionamento software gestionale illa software gestionale non risponde ai comandi ho già provato a riavviare urgente il reparto è fermo,Tecnico,Tecnico,alta,alta
+segnalazione errore su estratto conto si richiede la rettifica deldella estratto conto in quanto deve essere corretto situazione bloccante serve risposta immediata,Amministrazione,Amministrazione,alta,alta
+sollecito scontistica gentilmente illa scontistica è scaduto attendo aggiornamento è un errore critico che impedisce loperatività,Commerciale,Commerciale,alta,alta
+problema con stampante di rete ho riscontrato che illa stampante di rete si blocca allavvio urgente il reparto è fermo,Tecnico,Tecnico,alta,alta
+verifica bilancio in riferimento alalla bilancio presenta anomalie attendo riscontro,Amministrazione,Amministrazione,bassa,bassa
+segnalazione su trattativa illa trattativa deve essere aggiornato si prega di intervenire urgente il reparto è fermo,Commerciale,Commerciale,alta,alta
+guasto software gestionale da ieri illa software gestionale genera un errore impossibile lavorare attendo riscontro entro oggi se possibile,Tecnico,Tecnico,media,media
+problema con contratto di fornitura segnalo che illa contratto di fornitura non corrisponde alla richiesta,Commerciale,Commerciale,bassa,bassa
+malfunzionamento rete interna da ieri illa rete interna ha smesso di funzionare impossibile lavorare,Tecnico,Tecnico,bassa,bassa
+modifica preventivo buongiorno illa preventivo non è stato ricevuto urgente per il cliente attendo riscontro entro oggi se possibile,Commerciale,Commerciale,media,media
+lentezza del pc non disponibile segnalo che lentezza del pc richiede aggiornamento serve intervento tecnico situazione bloccante serve risposta immediata,Tecnico,Tecnico,alta,alta
+assistenza per software gestionale ho riscontrato che illa software gestionale non si avvia urgente il reparto è fermo,Tecnico,Tecnico,alta,alta
+segnalazione errore su bonifico si richiede la rettifica deldella bonifico in quanto va ricalcolato attendo riscontro entro oggi se possibile,Amministrazione,Amministrazione,media,media
+anomalia ricevuta si richiede la rettifica deldella ricevuta in quanto è in sospeso sollecito cortesemente una risposta,Amministrazione,Amministrazione,media,media
+richiesta aggiornamento offerta commerciale il cliente ha segnalato che illa offerta commerciale richiede approvazione urgente il reparto è fermo,Commerciale,Commerciale,alta,alta
+contributo inps non conforme buongiorno illa contributo inps non è stato emesso chiedo assistenza,Amministrazione,Amministrazione,bassa,bassa
+segnalazione su listino prezzi buongiorno illa listino prezzi deve essere aggiornato urgente per il cliente,Commerciale,Commerciale,bassa,bassa
+problema con dichiarazione iva illa dichiarazione iva relativo al mese corrente non è stato emesso il sistema è down emergenza,Amministrazione,Amministrazione,alta,alta
+segnalazione su lead commerciale gentilmente illa lead commerciale contiene errori attendo aggiornamento il sistema è down emergenza,Commerciale,Commerciale,alta,alta
+password utente non disponibile urgente password utente ha smesso di funzionare reparto fermo,Tecnico,Tecnico,bassa,bassa
+errore server aziendale segnalo che server aziendale non si avvia serve intervento tecnico situazione bloccante serve risposta immediata,Tecnico,Tecnico,alta,alta
+problema con rimborso illa rimborso relativo al mese corrente presenta anomalie,Amministrazione,Amministrazione,bassa,bassa
+assistenza per errore di sistema illa errore di sistema non risponde ai comandi da questa mattina,Tecnico,Tecnico,bassa,bassa
+segnalazione errore su bilancio segnalo che illa bilancio deve essere corretto e necessita intervento,Amministrazione,Amministrazione,bassa,bassa
+sollecito listino prezzi illa listino prezzi va modificato si prega di intervenire,Commerciale,Commerciale,bassa,bassa
+verifica f24 buongiorno illa f24 va ricalcolato chiedo assistenza la scadenza è imminente serve un riscontro,Amministrazione,Amministrazione,media,media
+segnalazione errore su nota di credito segnalo che illa nota di credito presenta anomalie e necessita intervento urgente il reparto è fermo,Amministrazione,Amministrazione,alta,alta
+catalogo prodotti da rivedere segnalo che illa catalogo prodotti va modificato,Commerciale,Commerciale,bassa,bassa
+guasto crash applicazione ho riscontrato che illa crash applicazione richiede aggiornamento,Tecnico,Tecnico,bassa,bassa
+anomalia f24 illa f24 relativo al mese corrente risulta errato sollecito cortesemente una risposta,Amministrazione,Amministrazione,media,media
+verifica nota di credito segnalo che illa nota di credito non è stato registrato e necessita intervento è un errore critico che impedisce loperatività,Amministrazione,Amministrazione,alta,alta
+spedizione da rivedere buongiorno illa spedizione non è stato ricevuto urgente per il cliente,Commerciale,Commerciale,bassa,bassa
+errore stampante di rete ho riscontrato che illa stampante di rete genera un errore urgente il reparto è fermo,Tecnico,Tecnico,alta,alta
+segnalazione su campione gratuito segnalo che illa campione gratuito richiede approvazione,Commerciale,Commerciale,bassa,bassa
+problema con scadenza fiscale illa scadenza fiscale relativo al mese corrente necessita di verifica situazione bloccante serve risposta immediata,Amministrazione,Amministrazione,alta,alta
+problema con promozione segnalo che illa promozione necessita revisione la scadenza è imminente serve un riscontro,Commerciale,Commerciale,media,media
+sollecito listino prezzi illa listino prezzi necessita revisione chiedo cortesemente una verifica è un errore critico che impedisce loperatività,Commerciale,Commerciale,alta,alta
+modifica lead commerciale gentilmente illa lead commerciale contiene errori attendo aggiornamento,Commerciale,Commerciale,bassa,bassa
+guasto server aziendale urgente server aziendale non risponde ai comandi reparto fermo lanomalia va risolta in tempi brevi,Tecnico,Tecnico,media,media
+firewall non disponibile urgente firewall non si avvia reparto fermo,Tecnico,Tecnico,bassa,bassa
+fattura non conforme illa fattura relativo al mese corrente deve essere corretto,Amministrazione,Amministrazione,bassa,bassa
+assistenza per stampante di rete ho riscontrato che illa stampante di rete mostra messaggi di errore,Tecnico,Tecnico,bassa,bassa
+richiesta correzione dichiarazione iva buongiorno illa dichiarazione iva presenta anomalie chiedo assistenza impossibile lavorare senza risoluzione,Amministrazione,Amministrazione,alta,alta
+problema con preventivo illa preventivo deve essere aggiornato chiedo cortesemente una verifica,Commerciale,Commerciale,bassa,bassa
+segnalazione su scontistica illa scontistica deve essere aggiornato chiedo cortesemente una verifica,Commerciale,Commerciale,bassa,bassa
+backup non disponibile ho riscontrato che illa backup mostra messaggi di errore,Tecnico,Tecnico,bassa,bassa
+anomalia dichiarazione iva segnalo che illa dichiarazione iva deve essere corretto e necessita intervento la scadenza è imminente serve un riscontro,Amministrazione,Amministrazione,media,media
+segnalazione su listino prezzi gentilmente illa listino prezzi è scaduto attendo aggiornamento situazione bloccante serve risposta immediata,Commerciale,Commerciale,alta,alta
+modifica spedizione buongiorno illa spedizione deve essere aggiornato urgente per il cliente attendo riscontro entro oggi se possibile,Commerciale,Commerciale,media,media
+segnalazione su trattativa illa trattativa richiede approvazione si prega di intervenire,Commerciale,Commerciale,bassa,bassa
+segnalazione errore su fattura in riferimento alalla fattura necessita di verifica attendo riscontro,Amministrazione,Amministrazione,bassa,bassa
+errore schermata blu urgente schermata blu genera un errore reparto fermo il sistema è down emergenza,Tecnico,Tecnico,alta,alta
+assistenza per software gestionale segnalo che software gestionale non risponde ai comandi serve intervento tecnico,Tecnico,Tecnico,bassa,bassa
+problema con crash applicazione urgente crash applicazione ha smesso di funzionare reparto fermo situazione bloccante serve risposta immediata,Tecnico,Tecnico,alta,alta
+lead commerciale da rivedere gentilmente illa lead commerciale contiene errori attendo aggiornamento cè un ritardo significativo da gestire,Commerciale,Commerciale,media,media
+assistenza per crash applicazione urgente crash applicazione non funziona correttamente reparto fermo,Tecnico,Tecnico,bassa,bassa
+richiesta correzione pagamento buongiorno illa pagamento deve essere corretto chiedo assistenza impossibile lavorare senza risoluzione,Amministrazione,Amministrazione,alta,alta
+ravvedimento operoso non conforme segnalo che illa ravvedimento operoso non è stato registrato e necessita intervento attendo riscontro entro oggi se possibile,Amministrazione,Amministrazione,media,media
+problema con f24 il documento f24 deve essere corretto si prega di verificare la scadenza è imminente serve un riscontro,Amministrazione,Amministrazione,media,media
+segnalazione su scontistica il cliente ha segnalato che illa scontistica contiene errori,Commerciale,Commerciale,bassa,bassa
+problema con scadenza fiscale il documento scadenza fiscale deve essere corretto si prega di verificare la scadenza è imminente serve un riscontro,Amministrazione,Amministrazione,media,media
+problema con backup urgente backup presenta malfunzionamenti reparto fermo,Tecnico,Tecnico,bassa,bassa
+consegna da rivedere segnalo che illa consegna è stato annullato,Commerciale,Commerciale,bassa,bassa
+database non disponibile illa database non si avvia da questa mattina sollecito cortesemente una risposta,Tecnico,Tecnico,media,media
+segnalazione errore su ravvedimento operoso si richiede la rettifica deldella ravvedimento operoso in quanto non è stato registrato,Amministrazione,Amministrazione,bassa,bassa
+assistenza per connessione vpn ho riscontrato che illa connessione vpn è irraggiungibile è un errore critico che impedisce loperatività,Tecnico,Tecnico,alta,alta
+errore bug nel software segnalo che bug nel software mostra messaggi di errore serve intervento tecnico impossibile lavorare senza risoluzione,Tecnico,Tecnico,alta,alta
+richiesta correzione fattura segnalo che illa fattura necessita di verifica e necessita intervento sollecito cortesemente una risposta,Amministrazione,Amministrazione,media,media
+verifica bonifico in riferimento alalla bonifico deve essere corretto attendo riscontro,Amministrazione,Amministrazione,bassa,bassa
+richiesta aggiornamento contratto di fornitura gentilmente illa contratto di fornitura necessita revisione attendo aggiornamento cè un ritardo significativo da gestire,Commerciale,Commerciale,media,media
+anomalia contributo inps illa contributo inps relativo al mese corrente deve essere corretto cè un ritardo significativo da gestire,Amministrazione,Amministrazione,media,media
+problema con connessione vpn ho riscontrato che illa connessione vpn mostra messaggi di errore,Tecnico,Tecnico,bassa,bassa
+assistenza per server aziendale ho riscontrato che illa server aziendale ha smesso di funzionare la scadenza è imminente serve un riscontro,Tecnico,Tecnico,media,media
+richiesta aggiornamento spedizione gentilmente illa spedizione non corrisponde alla richiesta attendo aggiornamento,Commerciale,Commerciale,bassa,bassa
+listino prezzi da rivedere segnalo che illa listino prezzi va modificato,Commerciale,Commerciale,bassa,bassa
+contratto di fornitura da rivedere buongiorno illa contratto di fornitura è stato annullato urgente per il cliente sollecito cortesemente una risposta,Commerciale,Commerciale,media,media
+richiesta correzione bonifico segnalo che illa bonifico risulta errato e necessita intervento,Amministrazione,Amministrazione,bassa,bassa
+modifica consegna illa consegna non è stato ricevuto si prega di intervenire,Commerciale,Commerciale,bassa,bassa
+richiesta correzione ravvedimento operoso il documento ravvedimento operoso non corrisponde si prega di verificare lanomalia va risolta in tempi brevi,Amministrazione,Amministrazione,media,media
+catalogo prodotti da rivedere buongiorno illa catalogo prodotti non è stato inviato urgente per il cliente,Commerciale,Commerciale,bassa,bassa
+segnalazione su ordine cliente buongiorno illa ordine cliente non corrisponde alla richiesta urgente per il cliente la scadenza è imminente serve un riscontro,Commerciale,Commerciale,media,media
+errore lentezza del pc segnalo che lentezza del pc si blocca allavvio serve intervento tecnico,Tecnico,Tecnico,bassa,bassa
+segnalazione su scontistica illa scontistica non è stato inviato si prega di intervenire cè un ritardo significativo da gestire,Commerciale,Commerciale,media,media
+segnalazione errore su bonifico buongiorno illa bonifico presenta anomalie chiedo assistenza il sistema è down emergenza,Amministrazione,Amministrazione,alta,alta
+anomalia rimborso il documento rimborso presenta anomalie si prega di verificare il sistema è down emergenza,Amministrazione,Amministrazione,alta,alta
+errore backup illa backup si blocca allavvio da questa mattina,Tecnico,Tecnico,bassa,bassa
+errore backup ho riscontrato che illa backup si blocca allavvio urgente il reparto è fermo,Tecnico,Tecnico,alta,alta

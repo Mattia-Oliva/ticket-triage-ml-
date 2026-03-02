@@ -1,0 +1,501 @@
+id,title,body,category,priority
+308,Errore firewall,"Urgente: firewall mostra messaggi di errore, reparto fermo. La scadenza è imminente, serve un riscontro.",Tecnico,media
+333,Malfunzionamento schermata blu,Il/la schermata blu ha smesso di funzionare. Ho già provato a riavviare.,Tecnico,bassa
+497,Modifica promozione,"Il/la promozione richiede approvazione. Chiedo cortesemente una verifica. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+19,Problema con F24,In riferimento al/alla F24: risulta errato. Attendo riscontro. Impossibile lavorare senza risoluzione.,Amministrazione,alta
+340,Segnalazione su listino prezzi,Il/la listino prezzi non è stato inviato. Chiedo cortesemente una verifica.,Commerciale,bassa
+409,Modifica consegna,Il/la consegna non è stato ricevuto. Si prega di intervenire.,Commerciale,bassa
+245,Errore bug nel software,"Da ieri il/la bug nel software richiede aggiornamento. Impossibile lavorare. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+500,scontistica da rivedere,"Il/la scontistica è stato annullato. Si prega di intervenire. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+76,Problema con dichiarazione IVA,"Il/la dichiarazione IVA relativo al mese corrente non è stato emesso. Il sistema è down, emergenza.",Amministrazione,alta
+144,Segnalazione errore su registro contabile,"Buongiorno, il/la registro contabile risulta errato. Chiedo assistenza.",Amministrazione,bassa
+436,Sollecito listino prezzi,"Buongiorno, il/la listino prezzi necessita revisione. Urgente per il cliente. L'anomalia va risolta in tempi brevi.",Commerciale,media
+268,lentezza del PC non disponibile,"Segnalo che lentezza del PC richiede aggiornamento. Serve intervento tecnico. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+73,Problema con nota di credito,Segnalo che il/la nota di credito non è stato emesso e necessita intervento.,Amministrazione,bassa
+180,Errore stampante di rete,Da ieri il/la stampante di rete presenta malfunzionamenti. Impossibile lavorare.,Tecnico,bassa
+6,rimborso non conforme,Si richiede la rettifica del/della rimborso in quanto presenta anomalie.,Amministrazione,bassa
+201,Assistenza per software gestionale,Segnalo che software gestionale non risponde ai comandi. Serve intervento tecnico.,Tecnico,bassa
+381,Modifica promozione,"Il/la promozione richiede approvazione. Chiedo cortesemente una verifica. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+43,Anomalia scadenza fiscale,In riferimento al/alla scadenza fiscale: è in sospeso. Attendo riscontro. Urgente: il reparto è fermo.,Amministrazione,alta
+419,Modifica reso merce,Il/la reso merce necessita revisione. Chiedo cortesemente una verifica. C'è un ritardo significativo da gestire.,Commerciale,media
+282,Errore bug nel software,"Urgente: bug nel software mostra messaggi di errore, reparto fermo. C'è un ritardo significativo da gestire.",Tecnico,media
+401,Richiesta aggiornamento spedizione,Segnalo che il/la spedizione non corrisponde alla richiesta. C'è un ritardo significativo da gestire.,Commerciale,media
+481,Problema con scontistica,"Buongiorno, il/la scontistica è stato annullato. Urgente per il cliente.",Commerciale,bassa
+150,Verifica F24,"Il documento F24 va ricalcolato, si prega di verificare. È un errore critico che impedisce l'operatività.",Amministrazione,alta
+235,Problema con aggiornamento firmware,"Urgente: aggiornamento firmware mostra messaggi di errore, reparto fermo.",Tecnico,bassa
+250,Errore software gestionale,"Il/la software gestionale presenta malfunzionamenti. Ho già provato a riavviare. Il sistema è down, emergenza.",Tecnico,alta
+45,Problema con dichiarazione IVA,Il/la dichiarazione IVA relativo al mese corrente non corrisponde. L'anomalia va risolta in tempi brevi.,Amministrazione,media
+205,Malfunzionamento backup,Ho riscontrato che il/la backup non risponde ai comandi.,Tecnico,bassa
+68,Anomalia estratto conto,In riferimento al/alla estratto conto: va ricalcolato. Attendo riscontro.,Amministrazione,bassa
+488,Sollecito trattativa,"Gentilmente, il/la trattativa necessita revisione. Attendo aggiornamento.",Commerciale,bassa
+224,connessione VPN non disponibile,Ho riscontrato che il/la connessione VPN non risponde ai comandi. C'è un ritardo significativo da gestire.,Tecnico,media
+444,Segnalazione su promozione,"Gentilmente, il/la promozione richiede approvazione. Attendo aggiornamento. Attendo riscontro entro oggi se possibile.",Commerciale,media
+240,Malfunzionamento database,Da ieri il/la database mostra messaggi di errore. Impossibile lavorare.,Tecnico,bassa
+438,catalogo prodotti da rivedere,"Buongiorno, il/la catalogo prodotti non è stato inviato. Urgente per il cliente.",Commerciale,bassa
+223,Errore crash applicazione,"Urgente: crash applicazione presenta malfunzionamenti, reparto fermo.",Tecnico,bassa
+376,Richiesta aggiornamento catalogo prodotti,"Gentilmente, il/la catalogo prodotti contiene errori. Attendo aggiornamento.",Commerciale,bassa
+7,bonifico non conforme,"Buongiorno, il/la bonifico necessita di verifica. Chiedo assistenza. È un errore critico che impedisce l'operatività.",Amministrazione,alta
+237,Malfunzionamento stampante di rete,Il/la stampante di rete non risponde ai comandi da questa mattina.,Tecnico,bassa
+13,Problema con F24,In riferimento al/alla F24: non è stato registrato. Attendo riscontro.,Amministrazione,bassa
+211,aggiornamento firmware non disponibile,"Segnalo che aggiornamento firmware è irraggiungibile. Serve intervento tecnico. La scadenza è imminente, serve un riscontro.",Tecnico,media
+67,Problema con ravvedimento operoso,Si richiede la rettifica del/della ravvedimento operoso in quanto va ricalcolato. C'è un ritardo significativo da gestire.,Amministrazione,media
+355,offerta commerciale da rivedere,"Buongiorno, il/la offerta commerciale è scaduto. Urgente per il cliente. Attendo riscontro entro oggi se possibile.",Commerciale,media
+86,Anomalia contributo INPS,"In riferimento al/alla contributo INPS: va ricalcolato. Attendo riscontro. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+311,Assistenza per bug nel software,Il/la bug nel software presenta malfunzionamenti. Ho già provato a riavviare. L'anomalia va risolta in tempi brevi.,Tecnico,media
+293,Assistenza per crash applicazione,"Urgente: crash applicazione non funziona correttamente, reparto fermo.",Tecnico,bassa
+261,Assistenza per connessione VPN,Ho riscontrato che il/la connessione VPN è irraggiungibile. È un errore critico che impedisce l'operatività.,Tecnico,alta
+191,Problema con backup,Il/la backup richiede aggiornamento. Ho già provato a riavviare. Sollecito cortesemente una risposta.,Tecnico,media
+368,Modifica consegna,Il/la consegna necessita revisione. Chiedo cortesemente una verifica.,Commerciale,bassa
+450,Segnalazione su promozione,Il/la promozione non è stato ricevuto. Si prega di intervenire. L'anomalia va risolta in tempi brevi.,Commerciale,media
+281,Assistenza per aggiornamento firmware,Ho riscontrato che il/la aggiornamento firmware ha smesso di funzionare. C'è un ritardo significativo da gestire.,Tecnico,media
+148,nota di credito non conforme,In riferimento al/alla nota di credito: non è stato emesso. Attendo riscontro. Urgente: il reparto è fermo.,Amministrazione,alta
+316,Errore password utente,Ho riscontrato che il/la password utente genera un errore.,Tecnico,bassa
+475,lead commerciale da rivedere,Segnalo che il/la lead commerciale richiede approvazione.,Commerciale,bassa
+64,Anomalia contributo INPS,Il/la contributo INPS relativo al mese corrente deve essere corretto. C'è un ritardo significativo da gestire.,Amministrazione,media
+83,Anomalia contributo INPS,Segnalo che il/la contributo INPS risulta errato e necessita intervento. L'anomalia va risolta in tempi brevi.,Amministrazione,media
+371,Richiesta aggiornamento scontistica,Il/la scontistica è scaduto. Si prega di intervenire. È un errore critico che impedisce l'operatività.,Commerciale,alta
+424,Problema con reso merce,Il/la reso merce necessita revisione. Si prega di intervenire.,Commerciale,bassa
+208,Errore errore di sistema,"Il/la errore di sistema ha smesso di funzionare da questa mattina. Il sistema è down, emergenza.",Tecnico,alta
+312,Guasto software gestionale,"Urgente: software gestionale non si avvia, reparto fermo. Il sistema è down, emergenza.",Tecnico,alta
+172,Assistenza per server aziendale,"Ho riscontrato che il/la server aziendale ha smesso di funzionare. La scadenza è imminente, serve un riscontro.",Tecnico,media
+366,Modifica promozione,Segnalo che il/la promozione va modificato. Urgente: il reparto è fermo.,Commerciale,alta
+408,Modifica catalogo prodotti,Il/la catalogo prodotti deve essere aggiornato. Chiedo cortesemente una verifica. Attendo riscontro entro oggi se possibile.,Commerciale,media
+34,Problema con fattura,Il/la fattura relativo al mese corrente è stato rifiutato. L'anomalia va risolta in tempi brevi.,Amministrazione,media
+466,Modifica lead commerciale,"Gentilmente, il/la lead commerciale richiede approvazione. Attendo aggiornamento.",Commerciale,bassa
+108,Richiesta correzione pagamento,Si richiede la rettifica del/della pagamento in quanto è in sospeso. Impossibile lavorare senza risoluzione.,Amministrazione,alta
+290,Problema con schermata blu,Da ieri il/la schermata blu non risponde ai comandi. Impossibile lavorare. Impossibile lavorare senza risoluzione.,Tecnico,alta
+445,Segnalazione su piano vendite,Il/la piano vendite necessita revisione. Chiedo cortesemente una verifica. Urgente: il reparto è fermo.,Commerciale,alta
+78,Problema con dichiarazione IVA,"Buongiorno, il/la dichiarazione IVA necessita di verifica. Chiedo assistenza. Il sistema è down, emergenza.",Amministrazione,alta
+110,Segnalazione errore su scadenza fiscale,"Il documento scadenza fiscale va ricalcolato, si prega di verificare.",Amministrazione,bassa
+233,backup non disponibile,Ho riscontrato che il/la backup presenta malfunzionamenti. C'è un ritardo significativo da gestire.,Tecnico,media
+226,Errore firewall,Il/la firewall richiede aggiornamento. Ho già provato a riavviare.,Tecnico,bassa
+402,Modifica scontistica,"Gentilmente, il/la scontistica va modificato. Attendo aggiornamento. Urgente: il reparto è fermo.",Commerciale,alta
+353,contratto di fornitura da rivedere,Segnalo che il/la contratto di fornitura deve essere aggiornato. Urgente: il reparto è fermo.,Commerciale,alta
+175,Problema con firewall,Segnalo che firewall si blocca all'avvio. Serve intervento tecnico. Attendo riscontro entro oggi se possibile.,Tecnico,media
+431,Segnalazione su consegna,Segnalo che il/la consegna non è stato inviato.,Commerciale,bassa
+453,Segnalazione su scontistica,Il cliente ha segnalato che il/la scontistica contiene errori.,Commerciale,bassa
+416,Segnalazione su trattativa,Il/la trattativa richiede approvazione. Si prega di intervenire.,Commerciale,bassa
+265,Problema con crash applicazione,Il/la crash applicazione genera un errore da questa mattina.,Tecnico,bassa
+53,Anomalia dichiarazione IVA,"Segnalo che il/la dichiarazione IVA deve essere corretto e necessita intervento. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+455,Segnalazione su catalogo prodotti,Il/la catalogo prodotti necessita revisione. Chiedo cortesemente una verifica.,Commerciale,bassa
+157,Segnalazione errore su nota di credito,Segnalo che il/la nota di credito presenta anomalie e necessita intervento. Urgente: il reparto è fermo.,Amministrazione,alta
+253,Guasto server aziendale,Il/la server aziendale presenta malfunzionamenti da questa mattina.,Tecnico,bassa
+322,lentezza del PC non disponibile,Da ieri il/la lentezza del PC presenta malfunzionamenti. Impossibile lavorare.,Tecnico,bassa
+119,Richiesta correzione registro contabile,"Il documento registro contabile presenta anomalie, si prega di verificare. L'anomalia va risolta in tempi brevi.",Amministrazione,media
+342,Sollecito scontistica,"Gentilmente, il/la scontistica è scaduto. Attendo aggiornamento. È un errore critico che impedisce l'operatività.",Commerciale,alta
+486,Richiesta aggiornamento listino prezzi,"Il cliente ha segnalato che il/la listino prezzi è scaduto. Il sistema è down, emergenza.",Commerciale,alta
+429,contratto di fornitura da rivedere,Il/la contratto di fornitura va modificato. Chiedo cortesemente una verifica.,Commerciale,bassa
+94,Richiesta correzione contributo INPS,"Si richiede la rettifica del/della contributo INPS in quanto non è stato emesso. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+187,Problema con stampante di rete,Ho riscontrato che il/la stampante di rete si blocca all'avvio. Urgente: il reparto è fermo.,Tecnico,alta
+186,Assistenza per crash applicazione,Il/la crash applicazione richiede aggiornamento da questa mattina. È un errore critico che impedisce l'operatività.,Tecnico,alta
+57,Anomalia estratto conto,"Segnalo che il/la estratto conto è in sospeso e necessita intervento. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+40,contributo INPS non conforme,"Il documento contributo INPS non corrisponde, si prega di verificare.",Amministrazione,bassa
+1,estratto conto non conforme,"Il documento estratto conto è in sospeso, si prega di verificare.",Amministrazione,bassa
+266,Guasto stampante di rete,"Urgente: stampante di rete genera un errore, reparto fermo. C'è un ritardo significativo da gestire.",Tecnico,media
+232,Guasto firewall,Il/la firewall ha smesso di funzionare da questa mattina.,Tecnico,bassa
+47,Problema con ravvedimento operoso,Si richiede la rettifica del/della ravvedimento operoso in quanto è stato rifiutato. C'è un ritardo significativo da gestire.,Amministrazione,media
+336,Modifica promozione,"Il cliente ha segnalato che il/la promozione non è stato inviato. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+220,Malfunzionamento crash applicazione,"Urgente: crash applicazione si blocca all'avvio, reparto fermo.",Tecnico,bassa
+262,Assistenza per stampante di rete,Ho riscontrato che il/la stampante di rete mostra messaggi di errore.,Tecnico,bassa
+314,Assistenza per crash applicazione,"Urgente: crash applicazione presenta malfunzionamenti, reparto fermo. C'è un ritardo significativo da gestire.",Tecnico,media
+82,contributo INPS non conforme,Segnalo che il/la contributo INPS è stato rifiutato e necessita intervento.,Amministrazione,bassa
+318,Problema con backup,"Urgente: backup non risponde ai comandi, reparto fermo.",Tecnico,bassa
+432,Modifica campione gratuito,Il/la campione gratuito contiene errori. Chiedo cortesemente una verifica. C'è un ritardo significativo da gestire.,Commerciale,media
+133,Segnalazione errore su dichiarazione IVA,"Il documento dichiarazione IVA non è stato registrato, si prega di verificare. Impossibile lavorare senza risoluzione.",Amministrazione,alta
+420,Sollecito lead commerciale,Il/la lead commerciale non corrisponde alla richiesta. Chiedo cortesemente una verifica.,Commerciale,bassa
+113,Problema con scadenza fiscale,Segnalo che il/la scadenza fiscale presenta anomalie e necessita intervento. C'è un ritardo significativo da gestire.,Amministrazione,media
+10,Verifica bilancio,Il/la bilancio relativo al mese corrente necessita di verifica. È un errore critico che impedisce l'operatività.,Amministrazione,alta
+459,Modifica ordine cliente,Segnalo che il/la ordine cliente contiene errori. Impossibile lavorare senza risoluzione.,Commerciale,alta
+410,preventivo da rivedere,Il cliente ha segnalato che il/la preventivo richiede approvazione.,Commerciale,bassa
+103,Verifica scadenza fiscale,Si richiede la rettifica del/della scadenza fiscale in quanto necessita di verifica.,Amministrazione,bassa
+324,Problema con password utente,Da ieri il/la password utente si blocca all'avvio. Impossibile lavorare. Impossibile lavorare senza risoluzione.,Tecnico,alta
+435,scontistica da rivedere,Il cliente ha segnalato che il/la scontistica non è stato inviato.,Commerciale,bassa
+300,Problema con stampante di rete,Ho riscontrato che il/la stampante di rete non risponde ai comandi.,Tecnico,bassa
+338,Segnalazione su scontistica,Il/la scontistica non è stato inviato. Si prega di intervenire. C'è un ritardo significativo da gestire.,Commerciale,media
+397,Segnalazione su consegna,"Buongiorno, il/la consegna necessita revisione. Urgente per il cliente. Urgente: il reparto è fermo.",Commerciale,alta
+143,Segnalazione errore su registro contabile,"Segnalo che il/la registro contabile non corrisponde e necessita intervento. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+284,bug nel software non disponibile,Il/la bug nel software si blocca all'avvio da questa mattina. Sollecito cortesemente una risposta.,Tecnico,media
+456,Richiesta aggiornamento scontistica,"Il/la scontistica non è stato ricevuto. Si prega di intervenire. Il sistema è down, emergenza.",Commerciale,alta
+188,Guasto rete interna,Ho riscontrato che il/la rete interna non si avvia.,Tecnico,bassa
+247,database non disponibile,"Segnalo che database è irraggiungibile. Serve intervento tecnico. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+49,Problema con dichiarazione IVA,In riferimento al/alla dichiarazione IVA: necessita di verifica. Attendo riscontro.,Amministrazione,bassa
+121,Problema con contributo INPS,In riferimento al/alla contributo INPS: non è stato registrato. Attendo riscontro. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+407,Segnalazione su lead commerciale,Il/la lead commerciale deve essere aggiornato. Chiedo cortesemente una verifica. C'è un ritardo significativo da gestire.,Commerciale,media
+294,Malfunzionamento stampante di rete,Ho riscontrato che il/la stampante di rete si blocca all'avvio.,Tecnico,bassa
+349,Sollecito piano vendite,Il cliente ha segnalato che il/la piano vendite richiede approvazione. Impossibile lavorare senza risoluzione.,Commerciale,alta
+197,password utente non disponibile,"Urgente: password utente ha smesso di funzionare, reparto fermo.",Tecnico,bassa
+337,Segnalazione su campione gratuito,Segnalo che il/la campione gratuito richiede approvazione.,Commerciale,bassa
+496,Modifica consegna,"Gentilmente, il/la consegna non è stato inviato. Attendo aggiornamento.",Commerciale,bassa
+418,Segnalazione su spedizione,Il/la spedizione necessita revisione. Si prega di intervenire.,Commerciale,bassa
+425,Sollecito ordine cliente,Segnalo che il/la ordine cliente deve essere aggiornato. Attendo riscontro entro oggi se possibile.,Commerciale,media
+84,Segnalazione errore su bonifico,"Buongiorno, il/la bonifico va ricalcolato. Chiedo assistenza. Urgente: il reparto è fermo.",Amministrazione,alta
+280,Guasto errore di sistema,Il/la errore di sistema genera un errore. Ho già provato a riavviare.,Tecnico,bassa
+88,Segnalazione errore su partita IVA,"Segnalo che il/la partita IVA non è stato registrato e necessita intervento. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+352,Problema con scontistica,Il cliente ha segnalato che il/la scontistica richiede approvazione.,Commerciale,bassa
+365,trattativa da rivedere,"Gentilmente, il/la trattativa contiene errori. Attendo aggiornamento.",Commerciale,bassa
+358,Problema con offerta commerciale,"Buongiorno, il/la offerta commerciale non è stato inviato. Urgente per il cliente.",Commerciale,bassa
+26,Verifica registro contabile,"Il documento registro contabile risulta errato, si prega di verificare.",Amministrazione,bassa
+14,Richiesta correzione contributo INPS,"Il/la contributo INPS relativo al mese corrente non è stato registrato. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+89,scadenza fiscale non conforme,In riferimento al/alla scadenza fiscale: non corrisponde. Attendo riscontro. Urgente: il reparto è fermo.,Amministrazione,alta
+221,connessione VPN non disponibile,"Segnalo che connessione VPN ha smesso di funzionare. Serve intervento tecnico. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+478,Richiesta aggiornamento offerta commerciale,Il cliente ha segnalato che il/la offerta commerciale richiede approvazione. Urgente: il reparto è fermo.,Commerciale,alta
+395,Segnalazione su ordine cliente,"Buongiorno, il/la ordine cliente non corrisponde alla richiesta. Urgente per il cliente. La scadenza è imminente, serve un riscontro.",Commerciale,media
+99,Anomalia F24,"Il documento F24 è in sospeso, si prega di verificare. Attendo riscontro entro oggi se possibile.",Amministrazione,media
+174,firewall non disponibile,"Urgente: firewall non si avvia, reparto fermo.",Tecnico,bassa
+139,Segnalazione errore su pagamento,In riferimento al/alla pagamento: va ricalcolato. Attendo riscontro. Impossibile lavorare senza risoluzione.,Amministrazione,alta
+100,Richiesta correzione fattura,Il/la fattura relativo al mese corrente necessita di verifica. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+289,Assistenza per schermata blu,Il/la schermata blu non si avvia. Ho già provato a riavviare.,Tecnico,bassa
+413,Segnalazione su piano vendite,"Il/la piano vendite è scaduto. Chiedo cortesemente una verifica. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+160,Anomalia F24,"Buongiorno, il/la F24 deve essere corretto. Chiedo assistenza.",Amministrazione,bassa
+469,Sollecito offerta commerciale,"Il/la offerta commerciale è scaduto. Chiedo cortesemente una verifica. Il sistema è down, emergenza.",Commerciale,alta
+328,Problema con database,Segnalo che database mostra messaggi di errore. Serve intervento tecnico.,Tecnico,bassa
+163,Richiesta correzione F24,Segnalo che il/la F24 è stato rifiutato e necessita intervento.,Amministrazione,bassa
+203,Assistenza per bug nel software,Segnalo che bug nel software genera un errore. Serve intervento tecnico. L'anomalia va risolta in tempi brevi.,Tecnico,media
+37,Verifica pagamento,Il/la pagamento relativo al mese corrente deve essere corretto.,Amministrazione,bassa
+151,Anomalia ricevuta,In riferimento al/alla ricevuta: presenta anomalie. Attendo riscontro.,Amministrazione,bassa
+54,contributo INPS non conforme,"Buongiorno, il/la contributo INPS non è stato emesso. Chiedo assistenza.",Amministrazione,bassa
+222,Problema con database,"Segnalo che database ha smesso di funzionare. Serve intervento tecnico. Il sistema è down, emergenza.",Tecnico,alta
+81,Segnalazione errore su ricevuta,"Buongiorno, il/la ricevuta deve essere corretto. Chiedo assistenza. Sollecito cortesemente una risposta.",Amministrazione,media
+426,Richiesta aggiornamento promozione,Il/la promozione è scaduto. Chiedo cortesemente una verifica. L'anomalia va risolta in tempi brevi.,Commerciale,media
+189,Errore schermata blu,"Urgente: schermata blu genera un errore, reparto fermo. Il sistema è down, emergenza.",Tecnico,alta
+443,Sollecito promozione,Il cliente ha segnalato che il/la promozione va modificato.,Commerciale,bassa
+140,Verifica ricevuta,Si richiede la rettifica del/della ricevuta in quanto è in sospeso.,Amministrazione,bassa
+264,Errore schermata blu,Da ieri il/la schermata blu non risponde ai comandi. Impossibile lavorare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+20,Verifica nota di credito,"Buongiorno, il/la nota di credito va ricalcolato. Chiedo assistenza.",Amministrazione,bassa
+449,Segnalazione su scontistica,Il cliente ha segnalato che il/la scontistica è scaduto. Urgente: il reparto è fermo.,Commerciale,alta
+484,Sollecito scontistica,Segnalo che il/la scontistica contiene errori.,Commerciale,bassa
+183,Assistenza per connessione VPN,"Urgente: connessione VPN ha smesso di funzionare, reparto fermo.",Tecnico,bassa
+146,Verifica nota di credito,Segnalo che il/la nota di credito non è stato registrato e necessita intervento. È un errore critico che impedisce l'operatività.,Amministrazione,alta
+55,Problema con bonifico,In riferimento al/alla bonifico: non è stato registrato. Attendo riscontro.,Amministrazione,bassa
+59,Problema con scadenza fiscale,"Il/la scadenza fiscale relativo al mese corrente necessita di verifica. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+11,Segnalazione errore su F24,Il/la F24 relativo al mese corrente risulta errato.,Amministrazione,bassa
+227,Guasto aggiornamento firmware,Ho riscontrato che il/la aggiornamento firmware genera un errore. C'è un ritardo significativo da gestire.,Tecnico,media
+213,Assistenza per errore di sistema,Il/la errore di sistema non risponde ai comandi da questa mattina.,Tecnico,bassa
+198,Malfunzionamento database,Da ieri il/la database si blocca all'avvio. Impossibile lavorare. Sollecito cortesemente una risposta.,Tecnico,media
+85,Richiesta correzione partita IVA,"Buongiorno, il/la partita IVA è in sospeso. Chiedo assistenza.",Amministrazione,bassa
+166,Problema con rimborso,Il/la rimborso relativo al mese corrente presenta anomalie.,Amministrazione,bassa
+320,stampante di rete non disponibile,"Il/la stampante di rete presenta malfunzionamenti. Ho già provato a riavviare. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+128,Problema con F24,"Il documento F24 deve essere corretto, si prega di verificare. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+22,Anomalia fattura,Segnalo che il/la fattura va ricalcolato e necessita intervento.,Amministrazione,bassa
+44,Problema con bilancio,Il/la bilancio relativo al mese corrente è stato rifiutato. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+248,Problema con bug nel software,Da ieri il/la bug nel software non risponde ai comandi. Impossibile lavorare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+292,Errore aggiornamento firmware,Segnalo che aggiornamento firmware si blocca all'avvio. Serve intervento tecnico. Urgente: il reparto è fermo.,Tecnico,alta
+15,Problema con registro contabile,"Il documento registro contabile è stato rifiutato, si prega di verificare.",Amministrazione,bassa
+389,Segnalazione su lead commerciale,"Gentilmente, il/la lead commerciale contiene errori. Attendo aggiornamento. Il sistema è down, emergenza.",Commerciale,alta
+463,Problema con campione gratuito,"Buongiorno, il/la campione gratuito non è stato inviato. Urgente per il cliente.",Commerciale,bassa
+323,Problema con errore di sistema,"Segnalo che errore di sistema presenta malfunzionamenti. Serve intervento tecnico. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+313,Malfunzionamento rete interna,Ho riscontrato che il/la rete interna mostra messaggi di errore.,Tecnico,bassa
+200,aggiornamento firmware non disponibile,Da ieri il/la aggiornamento firmware presenta malfunzionamenti. Impossibile lavorare. È un errore critico che impedisce l'operatività.,Tecnico,alta
+391,promozione da rivedere,"Buongiorno, il/la promozione contiene errori. Urgente per il cliente.",Commerciale,bassa
+306,Malfunzionamento aggiornamento firmware,Il/la aggiornamento firmware mostra messaggi di errore da questa mattina. L'anomalia va risolta in tempi brevi.,Tecnico,media
+167,Verifica dichiarazione IVA,"Buongiorno, il/la dichiarazione IVA non è stato emesso. Chiedo assistenza. Impossibile lavorare senza risoluzione.",Amministrazione,alta
+168,Errore connessione VPN,Il/la connessione VPN si blocca all'avvio. Ho già provato a riavviare. Sollecito cortesemente una risposta.,Tecnico,media
+477,Segnalazione su listino prezzi,"Gentilmente, il/la listino prezzi è scaduto. Attendo aggiornamento. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+176,Errore rete interna,Il/la rete interna richiede aggiornamento da questa mattina.,Tecnico,bassa
+360,Problema con trattativa,"Gentilmente, il/la trattativa deve essere aggiornato. Attendo aggiornamento. Il sistema è down, emergenza.",Commerciale,alta
+430,Sollecito promozione,Il/la promozione è scaduto. Chiedo cortesemente una verifica. Urgente: il reparto è fermo.,Commerciale,alta
+454,Sollecito campione gratuito,"Il cliente ha segnalato che il/la campione gratuito non è stato ricevuto. La scadenza è imminente, serve un riscontro.",Commerciale,media
+63,Segnalazione errore su ravvedimento operoso,Si richiede la rettifica del/della ravvedimento operoso in quanto non è stato registrato.,Amministrazione,bassa
+304,lentezza del PC non disponibile,Il/la lentezza del PC ha smesso di funzionare da questa mattina.,Tecnico,bassa
+356,Segnalazione su listino prezzi,"Il cliente ha segnalato che il/la listino prezzi è scaduto. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+104,Verifica ricevuta,"Segnalo che il/la ricevuta presenta anomalie e necessita intervento. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+244,Problema con database,"Segnalo che database non si avvia. Serve intervento tecnico. La scadenza è imminente, serve un riscontro.",Tecnico,media
+325,software gestionale non disponibile,Il/la software gestionale richiede aggiornamento. Ho già provato a riavviare.,Tecnico,bassa
+102,Verifica dichiarazione IVA,"Il documento dichiarazione IVA è stato rifiutato, si prega di verificare. L'anomalia va risolta in tempi brevi.",Amministrazione,media
+343,Problema con preventivo,Segnalo che il/la preventivo è scaduto. È un errore critico che impedisce l'operatività.,Commerciale,alta
+91,Verifica F24,In riferimento al/alla F24: necessita di verifica. Attendo riscontro.,Amministrazione,bassa
+65,Verifica estratto conto,"Il documento estratto conto necessita di verifica, si prega di verificare.",Amministrazione,bassa
+442,scontistica da rivedere,"Gentilmente, il/la scontistica deve essere aggiornato. Attendo aggiornamento.",Commerciale,bassa
+490,lead commerciale da rivedere,Il cliente ha segnalato che il/la lead commerciale contiene errori. L'anomalia va risolta in tempi brevi.,Commerciale,media
+50,Segnalazione errore su registro contabile,In riferimento al/alla registro contabile: necessita di verifica. Attendo riscontro.,Amministrazione,bassa
+62,Problema con scadenza fiscale,Segnalo che il/la scadenza fiscale è in sospeso e necessita intervento. C'è un ritardo significativo da gestire.,Amministrazione,media
+249,Guasto password utente,Il/la password utente genera un errore da questa mattina.,Tecnico,bassa
+135,Anomalia pagamento,"Il documento pagamento non è stato emesso, si prega di verificare. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+399,Sollecito consegna,"Il/la consegna contiene errori. Si prega di intervenire. La scadenza è imminente, serve un riscontro.",Commerciale,media
+28,Richiesta correzione pagamento,"Buongiorno, il/la pagamento deve essere corretto. Chiedo assistenza. Impossibile lavorare senza risoluzione.",Amministrazione,alta
+46,Segnalazione errore su F24,Si richiede la rettifica del/della F24 in quanto necessita di verifica.,Amministrazione,bassa
+207,lentezza del PC non disponibile,Segnalo che lentezza del PC mostra messaggi di errore. Serve intervento tecnico. C'è un ritardo significativo da gestire.,Tecnico,media
+111,Problema con bilancio,Si richiede la rettifica del/della bilancio in quanto va ricalcolato. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+367,Problema con catalogo prodotti,"Buongiorno, il/la catalogo prodotti contiene errori. Urgente per il cliente. È un errore critico che impedisce l'operatività.",Commerciale,alta
+461,Modifica piano vendite,"Buongiorno, il/la piano vendite deve essere aggiornato. Urgente per il cliente. Attendo riscontro entro oggi se possibile.",Commerciale,media
+209,backup non disponibile,"Urgente: backup non funziona correttamente, reparto fermo.",Tecnico,bassa
+129,Verifica F24,In riferimento al/alla F24: è in sospeso. Attendo riscontro. Sollecito cortesemente una risposta.,Amministrazione,media
+228,Problema con schermata blu,"Da ieri il/la schermata blu ha smesso di funzionare. Impossibile lavorare. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+351,Segnalazione su spedizione,Il/la spedizione necessita revisione. Si prega di intervenire.,Commerciale,bassa
+482,Segnalazione su preventivo,"Gentilmente, il/la preventivo è scaduto. Attendo aggiornamento.",Commerciale,bassa
+71,Segnalazione errore su F24,"Segnalo che il/la F24 presenta anomalie e necessita intervento. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+297,Assistenza per stampante di rete,Il/la stampante di rete non funziona correttamente da questa mattina.,Tecnico,bassa
+136,Problema con estratto conto,Segnalo che il/la estratto conto non corrisponde e necessita intervento.,Amministrazione,bassa
+468,Problema con contratto di fornitura,Segnalo che il/la contratto di fornitura non corrisponde alla richiesta.,Commerciale,bassa
+257,lentezza del PC non disponibile,"Urgente: lentezza del PC non si avvia, reparto fermo.",Tecnico,bassa
+421,Problema con preventivo,Il cliente ha segnalato che il/la preventivo deve essere aggiornato. Urgente: il reparto è fermo.,Commerciale,alta
+434,campione gratuito da rivedere,"Gentilmente, il/la campione gratuito non corrisponde alla richiesta. Attendo aggiornamento.",Commerciale,bassa
+137,Anomalia partita IVA,"Segnalo che il/la partita IVA va ricalcolato e necessita intervento. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+451,Modifica campione gratuito,Il cliente ha segnalato che il/la campione gratuito necessita revisione. C'è un ritardo significativo da gestire.,Commerciale,media
+5,Problema con pagamento,"Il documento pagamento presenta anomalie, si prega di verificare. È un errore critico che impedisce l'operatività.",Amministrazione,alta
+327,Guasto stampante di rete,Il/la stampante di rete mostra messaggi di errore. Ho già provato a riavviare. Sollecito cortesemente una risposta.,Tecnico,media
+405,Problema con listino prezzi,Segnalo che il/la listino prezzi contiene errori. Attendo riscontro entro oggi se possibile.,Commerciale,media
+354,Segnalazione su preventivo,"Buongiorno, il/la preventivo contiene errori. Urgente per il cliente. Urgente: il reparto è fermo.",Commerciale,alta
+234,Malfunzionamento errore di sistema,Ho riscontrato che il/la errore di sistema mostra messaggi di errore. Attendo riscontro entro oggi se possibile.,Tecnico,media
+299,Guasto lentezza del PC,"Urgente: lentezza del PC ha smesso di funzionare, reparto fermo.",Tecnico,bassa
+317,Problema con software gestionale,Segnalo che software gestionale non funziona correttamente. Serve intervento tecnico.,Tecnico,bassa
+291,Problema con lentezza del PC,Da ieri il/la lentezza del PC non funziona correttamente. Impossibile lavorare. C'è un ritardo significativo da gestire.,Tecnico,media
+159,Anomalia nota di credito,"Il documento nota di credito risulta errato, si prega di verificare. È un errore critico che impedisce l'operatività.",Amministrazione,alta
+16,Anomalia F24,"Buongiorno, il/la F24 non è stato emesso. Chiedo assistenza. È un errore critico che impedisce l'operatività.",Amministrazione,alta
+96,Verifica registro contabile,"Buongiorno, il/la registro contabile risulta errato. Chiedo assistenza. Il sistema è down, emergenza.",Amministrazione,alta
+117,Anomalia scadenza fiscale,In riferimento al/alla scadenza fiscale: è stato rifiutato. Attendo riscontro.,Amministrazione,bassa
+130,Verifica dichiarazione IVA,In riferimento al/alla dichiarazione IVA: deve essere corretto. Attendo riscontro.,Amministrazione,bassa
+56,Problema con scadenza fiscale,Il/la scadenza fiscale relativo al mese corrente non è stato emesso. C'è un ritardo significativo da gestire.,Amministrazione,media
+3,Segnalazione errore su fattura,"Segnalo che il/la fattura risulta errato e necessita intervento. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+259,software gestionale non disponibile,Ho riscontrato che il/la software gestionale richiede aggiornamento.,Tecnico,bassa
+182,Problema con backup,Segnalo che backup ha smesso di funzionare. Serve intervento tecnico. Impossibile lavorare senza risoluzione.,Tecnico,alta
+260,Guasto crash applicazione,"Urgente: crash applicazione genera un errore, reparto fermo. L'anomalia va risolta in tempi brevi.",Tecnico,media
+60,ravvedimento operoso non conforme,Il/la ravvedimento operoso relativo al mese corrente è in sospeso.,Amministrazione,bassa
+162,Richiesta correzione bonifico,Segnalo che il/la bonifico risulta errato e necessita intervento.,Amministrazione,bassa
+491,Problema con scontistica,"Il/la scontistica va modificato. Chiedo cortesemente una verifica. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+492,ordine cliente da rivedere,"Gentilmente, il/la ordine cliente necessita revisione. Attendo aggiornamento.",Commerciale,bassa
+396,Modifica trattativa,Il/la trattativa non corrisponde alla richiesta. Chiedo cortesemente una verifica. Sollecito cortesemente una risposta.,Commerciale,media
+4,fattura non conforme,Il/la fattura relativo al mese corrente deve essere corretto.,Amministrazione,bassa
+370,consegna da rivedere,Segnalo che il/la consegna è stato annullato.,Commerciale,bassa
+39,Problema con fattura,"Buongiorno, il/la fattura non corrisponde. Chiedo assistenza.",Amministrazione,bassa
+417,reso merce da rivedere,"Il/la reso merce non è stato inviato. Chiedo cortesemente una verifica. La scadenza è imminente, serve un riscontro.",Commerciale,media
+495,Modifica scontistica,Il/la scontistica non corrisponde alla richiesta. Si prega di intervenire. L'anomalia va risolta in tempi brevi.,Commerciale,media
+363,Problema con reso merce,"Il/la reso merce non corrisponde alla richiesta. Chiedo cortesemente una verifica. La scadenza è imminente, serve un riscontro.",Commerciale,media
+270,Errore server aziendale,"Segnalo che server aziendale non si avvia. Serve intervento tecnico. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+400,Modifica consegna,"Il cliente ha segnalato che il/la consegna richiede approvazione. La scadenza è imminente, serve un riscontro.",Commerciale,media
+385,Modifica trattativa,Il/la trattativa deve essere aggiornato. Chiedo cortesemente una verifica. Sollecito cortesemente una risposta.,Commerciale,media
+181,connessione VPN non disponibile,"Ho riscontrato che il/la connessione VPN è irraggiungibile. La scadenza è imminente, serve un riscontro.",Tecnico,media
+87,Segnalazione errore su dichiarazione IVA,"Buongiorno, il/la dichiarazione IVA non corrisponde. Chiedo assistenza.",Amministrazione,bassa
+437,Richiesta aggiornamento trattativa,"Buongiorno, il/la trattativa richiede approvazione. Urgente per il cliente.",Commerciale,bassa
+252,Guasto lentezza del PC,"Urgente: lentezza del PC non funziona correttamente, reparto fermo. Il sistema è down, emergenza.",Tecnico,alta
+251,crash applicazione non disponibile,Da ieri il/la crash applicazione presenta malfunzionamenti. Impossibile lavorare.,Tecnico,bassa
+132,Richiesta correzione ricevuta,"Segnalo che il/la ricevuta risulta errato e necessita intervento. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+173,Malfunzionamento software gestionale,"Ho riscontrato che il/la software gestionale richiede aggiornamento. La scadenza è imminente, serve un riscontro.",Tecnico,media
+256,Problema con lentezza del PC,Da ieri il/la lentezza del PC si blocca all'avvio. Impossibile lavorare. Urgente: il reparto è fermo.,Tecnico,alta
+411,catalogo prodotti da rivedere,"Segnalo che il/la catalogo prodotti è stato annullato. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+378,Segnalazione su promozione,Il cliente ha segnalato che il/la promozione non corrisponde alla richiesta.,Commerciale,bassa
+439,Problema con preventivo,Il cliente ha segnalato che il/la preventivo è stato annullato. C'è un ritardo significativo da gestire.,Commerciale,media
+169,Problema con password utente,Da ieri il/la password utente ha smesso di funzionare. Impossibile lavorare. Sollecito cortesemente una risposta.,Tecnico,media
+101,Anomalia rimborso,"Il documento rimborso presenta anomalie, si prega di verificare. Il sistema è down, emergenza.",Amministrazione,alta
+79,Problema con F24,In riferimento al/alla F24: non è stato emesso. Attendo riscontro. Impossibile lavorare senza risoluzione.,Amministrazione,alta
+152,Problema con bilancio,Il/la bilancio relativo al mese corrente presenta anomalie.,Amministrazione,bassa
+346,Problema con consegna,"Buongiorno, il/la consegna non è stato ricevuto. Urgente per il cliente. La scadenza è imminente, serve un riscontro.",Commerciale,media
+298,backup non disponibile,Ho riscontrato che il/la backup mostra messaggi di errore.,Tecnico,bassa
+423,Richiesta aggiornamento trattativa,Il/la trattativa deve essere aggiornato. Chiedo cortesemente una verifica. L'anomalia va risolta in tempi brevi.,Commerciale,media
+75,Problema con nota di credito,Segnalo che il/la nota di credito non è stato registrato e necessita intervento. È un errore critico che impedisce l'operatività.,Amministrazione,alta
+384,Sollecito listino prezzi,Il/la listino prezzi necessita revisione. Chiedo cortesemente una verifica. È un errore critico che impedisce l'operatività.,Commerciale,alta
+24,Richiesta correzione partita IVA,"Buongiorno, il/la partita IVA presenta anomalie. Chiedo assistenza.",Amministrazione,bassa
+347,Problema con offerta commerciale,"Buongiorno, il/la offerta commerciale va modificato. Urgente per il cliente. Urgente: il reparto è fermo.",Commerciale,alta
+161,bonifico non conforme,"Il documento bonifico non corrisponde, si prega di verificare.",Amministrazione,bassa
+334,Errore connessione VPN,Il/la connessione VPN genera un errore. Ho già provato a riavviare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+326,Errore bug nel software,Segnalo che bug nel software mostra messaggi di errore. Serve intervento tecnico. Impossibile lavorare senza risoluzione.,Tecnico,alta
+364,Segnalazione su campione gratuito,Segnalo che il/la campione gratuito è scaduto. Attendo riscontro entro oggi se possibile.,Commerciale,media
+241,Malfunzionamento database,Il/la database non si avvia da questa mattina.,Tecnico,bassa
+51,Segnalazione errore su pagamento,Il/la pagamento relativo al mese corrente è in sospeso. Sollecito cortesemente una risposta.,Amministrazione,media
+302,Problema con backup,Ho riscontrato che il/la backup mostra messaggi di errore.,Tecnico,bassa
+255,Problema con software gestionale,Il/la software gestionale presenta malfunzionamenti da questa mattina. C'è un ritardo significativo da gestire.,Tecnico,media
+263,Errore stampante di rete,Ho riscontrato che il/la stampante di rete genera un errore. Urgente: il reparto è fermo.,Tecnico,alta
+185,Errore password utente,Il/la password utente non si avvia da questa mattina. Attendo riscontro entro oggi se possibile.,Tecnico,media
+134,Problema con scadenza fiscale,"Il documento scadenza fiscale deve essere corretto, si prega di verificare. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+158,Anomalia F24,Si richiede la rettifica del/della F24 in quanto risulta errato.,Amministrazione,bassa
+184,Assistenza per database,"Il/la database si blocca all'avvio da questa mattina. La scadenza è imminente, serve un riscontro.",Tecnico,media
+274,backup non disponibile,Il/la backup richiede aggiornamento. Ho già provato a riavviare. L'anomalia va risolta in tempi brevi.,Tecnico,media
+239,Problema con aggiornamento firmware,Il/la aggiornamento firmware non si avvia da questa mattina.,Tecnico,bassa
+462,Segnalazione su consegna,Segnalo che il/la consegna è stato annullato. C'è un ritardo significativo da gestire.,Commerciale,media
+145,F24 non conforme,"Il documento F24 presenta anomalie, si prega di verificare. Attendo riscontro entro oggi se possibile.",Amministrazione,media
+390,Sollecito offerta commerciale,Segnalo che il/la offerta commerciale deve essere aggiornato. L'anomalia va risolta in tempi brevi.,Commerciale,media
+283,database non disponibile,Il/la database non si avvia da questa mattina. Sollecito cortesemente una risposta.,Tecnico,media
+123,Segnalazione errore su bonifico,Si richiede la rettifica del/della bonifico in quanto va ricalcolato. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+204,Guasto server aziendale,Segnalo che server aziendale ha smesso di funzionare. Serve intervento tecnico. Impossibile lavorare senza risoluzione.,Tecnico,alta
+386,lead commerciale da rivedere,"Gentilmente, il/la lead commerciale contiene errori. Attendo aggiornamento. C'è un ritardo significativo da gestire.",Commerciale,media
+341,Sollecito spedizione,Il cliente ha segnalato che il/la spedizione deve essere aggiornato.,Commerciale,bassa
+319,backup non disponibile,Il/la backup genera un errore. Ho già provato a riavviare. L'anomalia va risolta in tempi brevi.,Tecnico,media
+460,Problema con preventivo,Il/la preventivo deve essere aggiornato. Chiedo cortesemente una verifica.,Commerciale,bassa
+480,Segnalazione su contratto di fornitura,"Buongiorno, il/la contratto di fornitura non è stato inviato. Urgente per il cliente. C'è un ritardo significativo da gestire.",Commerciale,media
+109,Anomalia ricevuta,Si richiede la rettifica del/della ricevuta in quanto è in sospeso. Sollecito cortesemente una risposta.,Amministrazione,media
+8,Anomalia ravvedimento operoso,In riferimento al/alla ravvedimento operoso: necessita di verifica. Attendo riscontro. È un errore critico che impedisce l'operatività.,Amministrazione,alta
+156,Anomalia nota di credito,"Il documento nota di credito va ricalcolato, si prega di verificare. C'è un ritardo significativo da gestire.",Amministrazione,media
+171,firewall non disponibile,"Urgente: firewall non risponde ai comandi, reparto fermo.",Tecnico,bassa
+107,Segnalazione errore su F24,Segnalo che il/la F24 non è stato emesso e necessita intervento. L'anomalia va risolta in tempi brevi.,Amministrazione,media
+246,Malfunzionamento schermata blu,Il/la schermata blu non funziona correttamente da questa mattina. C'è un ritardo significativo da gestire.,Tecnico,media
+404,Segnalazione su consegna,"Il cliente ha segnalato che il/la consegna contiene errori. La scadenza è imminente, serve un riscontro.",Commerciale,media
+287,Problema con aggiornamento firmware,Segnalo che aggiornamento firmware richiede aggiornamento. Serve intervento tecnico.,Tecnico,bassa
+301,Malfunzionamento errore di sistema,Il/la errore di sistema mostra messaggi di errore. Ho già provato a riavviare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+433,trattativa da rivedere,Il cliente ha segnalato che il/la trattativa non è stato inviato. Urgente: il reparto è fermo.,Commerciale,alta
+38,Richiesta correzione ravvedimento operoso,"Il documento ravvedimento operoso non corrisponde, si prega di verificare. L'anomalia va risolta in tempi brevi.",Amministrazione,media
+21,Anomalia registro contabile,"In riferimento al/alla registro contabile: non è stato registrato. Attendo riscontro. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+309,Malfunzionamento aggiornamento firmware,"Segnalo che aggiornamento firmware genera un errore. Serve intervento tecnico. La scadenza è imminente, serve un riscontro.",Tecnico,media
+310,Malfunzionamento bug nel software,"Urgente: bug nel software non si avvia, reparto fermo. Sollecito cortesemente una risposta.",Tecnico,media
+471,Problema con offerta commerciale,Segnalo che il/la offerta commerciale è stato annullato. È un errore critico che impedisce l'operatività.,Commerciale,alta
+138,Problema con partita IVA,"Buongiorno, il/la partita IVA è stato rifiutato. Chiedo assistenza. Attendo riscontro entro oggi se possibile.",Amministrazione,media
+27,Anomalia pagamento,"Il documento pagamento non è stato registrato, si prega di verificare. Sollecito cortesemente una risposta.",Amministrazione,media
+98,Problema con rimborso,"Buongiorno, il/la rimborso non è stato registrato. Chiedo assistenza.",Amministrazione,bassa
+275,Guasto errore di sistema,"Urgente: errore di sistema non si avvia, reparto fermo. C'è un ritardo significativo da gestire.",Tecnico,media
+48,Verifica bonifico,"Il documento bonifico è in sospeso, si prega di verificare. C'è un ritardo significativo da gestire.",Amministrazione,media
+190,Guasto stampante di rete,"Urgente: stampante di rete mostra messaggi di errore, reparto fermo. Attendo riscontro entro oggi se possibile.",Tecnico,media
+231,Assistenza per rete interna,"Il/la rete interna richiede aggiornamento. Ho già provato a riavviare. La scadenza è imminente, serve un riscontro.",Tecnico,media
+41,Richiesta correzione nota di credito,In riferimento al/alla nota di credito: non è stato emesso. Attendo riscontro.,Amministrazione,bassa
+332,Errore lentezza del PC,Segnalo che lentezza del PC si blocca all'avvio. Serve intervento tecnico.,Tecnico,bassa
+170,Guasto software gestionale,Da ieri il/la software gestionale genera un errore. Impossibile lavorare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+105,registro contabile non conforme,"Buongiorno, il/la registro contabile non è stato emesso. Chiedo assistenza. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+131,Richiesta correzione bonifico,"Il documento bonifico è stato rifiutato, si prega di verificare. L'anomalia va risolta in tempi brevi.",Amministrazione,media
+125,Segnalazione errore su estratto conto,Il/la estratto conto relativo al mese corrente va ricalcolato. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+199,lentezza del PC non disponibile,"Urgente: lentezza del PC ha smesso di funzionare, reparto fermo.",Tecnico,bassa
+464,contratto di fornitura da rivedere,"Buongiorno, il/la contratto di fornitura è stato annullato. Urgente per il cliente. Sollecito cortesemente una risposta.",Commerciale,media
+272,Errore aggiornamento firmware,Il/la aggiornamento firmware genera un errore. Ho già provato a riavviare. C'è un ritardo significativo da gestire.,Tecnico,media
+379,Richiesta aggiornamento trattativa,Il/la trattativa necessita revisione. Chiedo cortesemente una verifica. Sollecito cortesemente una risposta.,Commerciale,media
+362,Sollecito preventivo,Segnalo che il/la preventivo è stato annullato. C'è un ritardo significativo da gestire.,Commerciale,media
+383,Sollecito consegna,Il/la consegna è scaduto. Chiedo cortesemente una verifica. Urgente: il reparto è fermo.,Commerciale,alta
+288,Errore stampante di rete,"Urgente: stampante di rete genera un errore, reparto fermo.",Tecnico,bassa
+30,Problema con rimborso,"Buongiorno, il/la rimborso va ricalcolato. Chiedo assistenza.",Amministrazione,bassa
+447,Segnalazione su catalogo prodotti,Il/la catalogo prodotti è stato annullato. Chiedo cortesemente una verifica.,Commerciale,bassa
+403,Problema con promozione,"Segnalo che il/la promozione necessita revisione. La scadenza è imminente, serve un riscontro.",Commerciale,media
+498,Sollecito promozione,Segnalo che il/la promozione è scaduto.,Commerciale,bassa
+116,Verifica F24,"Buongiorno, il/la F24 non è stato emesso. Chiedo assistenza. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+440,Modifica reso merce,"Buongiorno, il/la reso merce deve essere aggiornato. Urgente per il cliente. È un errore critico che impedisce l'operatività.",Commerciale,alta
+243,Errore aggiornamento firmware,Da ieri il/la aggiornamento firmware è irraggiungibile. Impossibile lavorare.,Tecnico,bassa
+493,Richiesta aggiornamento contratto di fornitura,"Gentilmente, il/la contratto di fornitura necessita revisione. Attendo aggiornamento. C'è un ritardo significativo da gestire.",Commerciale,media
+95,Richiesta correzione fattura,"Buongiorno, il/la fattura non è stato registrato. Chiedo assistenza. L'anomalia va risolta in tempi brevi.",Amministrazione,media
+473,Segnalazione su ordine cliente,Il/la ordine cliente va modificato. Chiedo cortesemente una verifica.,Commerciale,bassa
+382,Sollecito listino prezzi,Il/la listino prezzi va modificato. Si prega di intervenire.,Commerciale,bassa
+77,Anomalia scadenza fiscale,Segnalo che il/la scadenza fiscale è stato rifiutato e necessita intervento. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+487,Sollecito spedizione,Il/la spedizione richiede approvazione. Chiedo cortesemente una verifica. Attendo riscontro entro oggi se possibile.,Commerciale,media
+214,Guasto lentezza del PC,"Da ieri il/la lentezza del PC mostra messaggi di errore. Impossibile lavorare. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+357,scontistica da rivedere,Il cliente ha segnalato che il/la scontistica va modificato.,Commerciale,bassa
+485,Richiesta aggiornamento spedizione,"Gentilmente, il/la spedizione non corrisponde alla richiesta. Attendo aggiornamento.",Commerciale,bassa
+269,Guasto stampante di rete,"Ho riscontrato che il/la stampante di rete mostra messaggi di errore. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+476,Sollecito preventivo,Il/la preventivo richiede approvazione. Si prega di intervenire. È un errore critico che impedisce l'operatività.,Commerciale,alta
+344,Problema con ordine cliente,Segnalo che il/la ordine cliente è stato annullato.,Commerciale,bassa
+330,Guasto server aziendale,"Urgente: server aziendale non risponde ai comandi, reparto fermo. L'anomalia va risolta in tempi brevi.",Tecnico,media
+499,Modifica scontistica,Segnalo che il/la scontistica non è stato inviato. Sollecito cortesemente una risposta.,Commerciale,media
+412,Modifica ordine cliente,Il/la ordine cliente non è stato ricevuto. Chiedo cortesemente una verifica.,Commerciale,bassa
+254,Assistenza per errore di sistema,"Ho riscontrato che il/la errore di sistema presenta malfunzionamenti. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+285,Guasto server aziendale,Ho riscontrato che il/la server aziendale presenta malfunzionamenti.,Tecnico,bassa
+219,Problema con connessione VPN,Ho riscontrato che il/la connessione VPN mostra messaggi di errore.,Tecnico,bassa
+348,Segnalazione su offerta commerciale,Il cliente ha segnalato che il/la offerta commerciale contiene errori.,Commerciale,bassa
+321,Guasto software gestionale,Da ieri il/la software gestionale non si avvia. Impossibile lavorare. Urgente: il reparto è fermo.,Tecnico,alta
+90,Verifica bilancio,In riferimento al/alla bilancio: presenta anomalie. Attendo riscontro.,Amministrazione,bassa
+377,Problema con catalogo prodotti,Segnalo che il/la catalogo prodotti è scaduto.,Commerciale,bassa
+303,Malfunzionamento backup,Ho riscontrato che il/la backup genera un errore.,Tecnico,bassa
+286,Assistenza per software gestionale,Ho riscontrato che il/la software gestionale non si avvia. Urgente: il reparto è fermo.,Tecnico,alta
+32,Richiesta correzione contributo INPS,Si richiede la rettifica del/della contributo INPS in quanto presenta anomalie. C'è un ritardo significativo da gestire.,Amministrazione,media
+141,Anomalia ricevuta,Segnalo che il/la ricevuta necessita di verifica e necessita intervento.,Amministrazione,bassa
+154,Anomalia F24,"Il documento F24 non è stato emesso, si prega di verificare.",Amministrazione,bassa
+212,Guasto schermata blu,"Urgente: schermata blu genera un errore, reparto fermo.",Tecnico,bassa
+114,Verifica estratto conto,"Il documento estratto conto va ricalcolato, si prega di verificare. L'anomalia va risolta in tempi brevi.",Amministrazione,media
+267,database non disponibile,Il/la database si blocca all'avvio da questa mattina.,Tecnico,bassa
+427,listino prezzi da rivedere,Segnalo che il/la listino prezzi va modificato.,Commerciale,bassa
+74,Verifica nota di credito,"In riferimento al/alla nota di credito: necessita di verifica. Attendo riscontro. Il sistema è down, emergenza.",Amministrazione,alta
+155,nota di credito non conforme,"Il documento nota di credito presenta anomalie, si prega di verificare.",Amministrazione,bassa
+122,Richiesta correzione rimborso,Il/la rimborso relativo al mese corrente presenta anomalie.,Amministrazione,bassa
+165,Segnalazione errore su fattura,In riferimento al/alla fattura: necessita di verifica. Attendo riscontro.,Amministrazione,bassa
+414,Modifica lead commerciale,"Gentilmente, il/la lead commerciale contiene errori. Attendo aggiornamento.",Commerciale,bassa
+452,Segnalazione su trattativa,Il/la trattativa deve essere aggiornato. Si prega di intervenire. Urgente: il reparto è fermo.,Commerciale,alta
+296,Guasto crash applicazione,Il/la crash applicazione ha smesso di funzionare da questa mattina.,Tecnico,bassa
+164,Richiesta correzione fattura,Segnalo che il/la fattura necessita di verifica e necessita intervento. Sollecito cortesemente una risposta.,Amministrazione,media
+295,password utente non disponibile,Il/la password utente è irraggiungibile. Ho già provato a riavviare. Urgente: il reparto è fermo.,Tecnico,alta
+375,Segnalazione su scontistica,Il/la scontistica deve essere aggiornato. Chiedo cortesemente una verifica.,Commerciale,bassa
+406,Modifica lead commerciale,"Gentilmente, il/la lead commerciale non corrisponde alla richiesta. Attendo aggiornamento.",Commerciale,bassa
+149,partita IVA non conforme,"Si richiede la rettifica del/della partita IVA in quanto non è stato registrato. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+258,rete interna non disponibile,Il/la rete interna ha smesso di funzionare. Ho già provato a riavviare. Urgente: il reparto è fermo.,Tecnico,alta
+72,Anomalia F24,Si richiede la rettifica del/della F24 in quanto non è stato registrato. Impossibile lavorare senza risoluzione.,Amministrazione,alta
+29,Verifica bilancio,Il/la bilancio relativo al mese corrente deve essere corretto.,Amministrazione,bassa
+398,Sollecito consegna,Il cliente ha segnalato che il/la consegna è stato annullato. C'è un ritardo significativo da gestire.,Commerciale,media
+387,Segnalazione su listino prezzi,"Buongiorno, il/la listino prezzi deve essere aggiornato. Urgente per il cliente.",Commerciale,bassa
+112,Anomalia scadenza fiscale,Il/la scadenza fiscale relativo al mese corrente non corrisponde. L'anomalia va risolta in tempi brevi.,Amministrazione,media
+472,Sollecito scontistica,"Segnalo che il/la scontistica è scaduto. La scadenza è imminente, serve un riscontro.",Commerciale,media
+120,fattura non conforme,"Il documento fattura va ricalcolato, si prega di verificare.",Amministrazione,bassa
+225,Assistenza per crash applicazione,"Il/la crash applicazione è irraggiungibile da questa mattina. Il sistema è down, emergenza.",Tecnico,alta
+206,Problema con backup,Da ieri il/la backup presenta malfunzionamenti. Impossibile lavorare. Impossibile lavorare senza risoluzione.,Tecnico,alta
+23,Richiesta correzione estratto conto,Si richiede la rettifica del/della estratto conto in quanto risulta errato. È un errore critico che impedisce l'operatività.,Amministrazione,alta
+380,Modifica preventivo,"Buongiorno, il/la preventivo non è stato ricevuto. Urgente per il cliente. Attendo riscontro entro oggi se possibile.",Commerciale,media
+126,Problema con fattura,Segnalo che il/la fattura necessita di verifica e necessita intervento.,Amministrazione,bassa
+25,Verifica rimborso,Si richiede la rettifica del/della rimborso in quanto non è stato emesso.,Amministrazione,bassa
+361,Problema con campione gratuito,"Gentilmente, il/la campione gratuito è scaduto. Attendo aggiornamento.",Commerciale,bassa
+474,Richiesta aggiornamento campione gratuito,Il/la campione gratuito è stato annullato. Chiedo cortesemente una verifica. Attendo riscontro entro oggi se possibile.,Commerciale,media
+307,schermata blu non disponibile,"Il/la schermata blu genera un errore. Ho già provato a riavviare. La scadenza è imminente, serve un riscontro.",Tecnico,media
+229,Assistenza per errore di sistema,"Il/la errore di sistema non risponde ai comandi da questa mattina. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+18,Richiesta correzione dichiarazione IVA,"Buongiorno, il/la dichiarazione IVA presenta anomalie. Chiedo assistenza. Impossibile lavorare senza risoluzione.",Amministrazione,alta
+305,Guasto stampante di rete,Segnalo che stampante di rete non risponde ai comandi. Serve intervento tecnico.,Tecnico,bassa
+52,Richiesta correzione ricevuta,Segnalo che il/la ricevuta necessita di verifica e necessita intervento. C'è un ritardo significativo da gestire.,Amministrazione,media
+35,bilancio non conforme,"Si richiede la rettifica del/della bilancio in quanto necessita di verifica. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+106,Problema con bonifico,In riferimento al/alla bonifico: presenta anomalie. Attendo riscontro. Urgente: il reparto è fermo.,Amministrazione,alta
+124,Verifica nota di credito,Segnalo che il/la nota di credito è stato rifiutato e necessita intervento.,Amministrazione,bassa
+9,Verifica ricevuta,In riferimento al/alla ricevuta: non è stato emesso. Attendo riscontro. Urgente: il reparto è fermo.,Amministrazione,alta
+483,Sollecito reso merce,Segnalo che il/la reso merce necessita revisione.,Commerciale,bassa
+315,database non disponibile,Il/la database non risponde ai comandi da questa mattina. Urgente: il reparto è fermo.,Tecnico,alta
+215,Errore firewall,"Urgente: firewall non risponde ai comandi, reparto fermo. Attendo riscontro entro oggi se possibile.",Tecnico,media
+467,Problema con piano vendite,Il/la piano vendite non è stato ricevuto. Si prega di intervenire. C'è un ritardo significativo da gestire.,Commerciale,media
+415,Sollecito piano vendite,Segnalo che il/la piano vendite non è stato ricevuto.,Commerciale,bassa
+489,Sollecito trattativa,Il/la trattativa è stato annullato. Chiedo cortesemente una verifica.,Commerciale,bassa
+58,ricevuta non conforme,In riferimento al/alla ricevuta: presenta anomalie. Attendo riscontro.,Amministrazione,bassa
+392,listino prezzi da rivedere,"Gentilmente, il/la listino prezzi non corrisponde alla richiesta. Attendo aggiornamento. È un errore critico che impedisce l'operatività.",Commerciale,alta
+372,Modifica lead commerciale,"Gentilmente, il/la lead commerciale contiene errori. Attendo aggiornamento. Impossibile lavorare senza risoluzione.",Commerciale,alta
+97,Verifica F24,"Buongiorno, il/la F24 va ricalcolato. Chiedo assistenza. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+142,Verifica dichiarazione IVA,"Buongiorno, il/la dichiarazione IVA necessita di verifica. Chiedo assistenza. Attendo riscontro entro oggi se possibile.",Amministrazione,media
+80,fattura non conforme,In riferimento al/alla fattura: necessita di verifica. Attendo riscontro.,Amministrazione,bassa
+178,Assistenza per backup,Il/la backup si blocca all'avvio. Ho già provato a riavviare.,Tecnico,bassa
+236,Guasto rete interna,"Segnalo che rete interna richiede aggiornamento. Serve intervento tecnico. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+127,Anomalia F24,Il/la F24 relativo al mese corrente risulta errato. Sollecito cortesemente una risposta.,Amministrazione,media
+118,Anomalia estratto conto,Si richiede la rettifica del/della estratto conto in quanto va ricalcolato.,Amministrazione,bassa
+422,trattativa da rivedere,Segnalo che il/la trattativa va modificato.,Commerciale,bassa
+195,Problema con errore di sistema,Segnalo che errore di sistema mostra messaggi di errore. Serve intervento tecnico. C'è un ritardo significativo da gestire.,Tecnico,media
+273,crash applicazione non disponibile,Da ieri il/la crash applicazione non risponde ai comandi. Impossibile lavorare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+218,Errore backup,Ho riscontrato che il/la backup si blocca all'avvio. Urgente: il reparto è fermo.,Tecnico,alta
+279,Guasto crash applicazione,"Urgente: crash applicazione si blocca all'avvio, reparto fermo.",Tecnico,bassa
+369,Segnalazione su preventivo,"Buongiorno, il/la preventivo non è stato ricevuto. Urgente per il cliente.",Commerciale,bassa
+345,piano vendite da rivedere,Il cliente ha segnalato che il/la piano vendite non è stato ricevuto. L'anomalia va risolta in tempi brevi.,Commerciale,media
+238,Problema con backup,"Urgente: backup presenta malfunzionamenti, reparto fermo.",Tecnico,bassa
+153,Verifica bonifico,In riferimento al/alla bonifico: deve essere corretto. Attendo riscontro.,Amministrazione,bassa
+12,Richiesta correzione dichiarazione IVA,"Il documento dichiarazione IVA necessita di verifica, si prega di verificare.",Amministrazione,bassa
+388,catalogo prodotti da rivedere,Segnalo che il/la catalogo prodotti va modificato.,Commerciale,bassa
+2,ravvedimento operoso non conforme,Segnalo che il/la ravvedimento operoso non è stato registrato e necessita intervento. Attendo riscontro entro oggi se possibile.,Amministrazione,media
+428,listino prezzi da rivedere,"Buongiorno, il/la listino prezzi richiede approvazione. Urgente per il cliente. C'è un ritardo significativo da gestire.",Commerciale,media
+115,Richiesta correzione estratto conto,"Buongiorno, il/la estratto conto non corrisponde. Chiedo assistenza.",Amministrazione,bassa
+373,Sollecito preventivo,"Segnalo che il/la preventivo va modificato. Situazione bloccante, serve risposta immediata.",Commerciale,alta
+66,Richiesta correzione ricevuta,"Si richiede la rettifica del/della ricevuta in quanto è in sospeso. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+271,Malfunzionamento lentezza del PC,Da ieri il/la lentezza del PC richiede aggiornamento. Impossibile lavorare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+202,Assistenza per schermata blu,Segnalo che schermata blu non funziona correttamente. Serve intervento tecnico. L'anomalia va risolta in tempi brevi.,Tecnico,media
+276,Errore errore di sistema,"Urgente: errore di sistema si blocca all'avvio, reparto fermo.",Tecnico,bassa
+92,Segnalazione errore su rimborso,"Il documento rimborso risulta errato, si prega di verificare.",Amministrazione,bassa
+61,registro contabile non conforme,"Il documento registro contabile è stato rifiutato, si prega di verificare. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+179,Errore software gestionale,Il/la software gestionale mostra messaggi di errore. Ho già provato a riavviare. L'anomalia va risolta in tempi brevi.,Tecnico,media
+441,reso merce da rivedere,Il cliente ha segnalato che il/la reso merce necessita revisione. Sollecito cortesemente una risposta.,Commerciale,media
+335,preventivo da rivedere,Il/la preventivo necessita revisione. Chiedo cortesemente una verifica. L'anomalia va risolta in tempi brevi.,Commerciale,media
+69,Segnalazione errore su estratto conto,"Si richiede la rettifica del/della estratto conto in quanto deve essere corretto. Situazione bloccante, serve risposta immediata.",Amministrazione,alta
+277,Errore database,Segnalo che database non risponde ai comandi. Serve intervento tecnico. Sollecito cortesemente una risposta.,Tecnico,media
+448,Segnalazione su offerta commerciale,"Segnalo che il/la offerta commerciale è stato annullato. La scadenza è imminente, serve un riscontro.",Commerciale,media
+339,catalogo prodotti da rivedere,"Buongiorno, il/la catalogo prodotti contiene errori. Urgente per il cliente. C'è un ritardo significativo da gestire.",Commerciale,media
+350,Modifica spedizione,"Buongiorno, il/la spedizione deve essere aggiornato. Urgente per il cliente. Attendo riscontro entro oggi se possibile.",Commerciale,media
+42,Richiesta correzione ricevuta,Segnalo che il/la ricevuta è stato rifiutato e necessita intervento.,Amministrazione,bassa
+193,Problema con crash applicazione,"Urgente: crash applicazione ha smesso di funzionare, reparto fermo. Situazione bloccante, serve risposta immediata.",Tecnico,alta
+194,Guasto software gestionale,Segnalo che software gestionale si blocca all'avvio. Serve intervento tecnico. Sollecito cortesemente una risposta.,Tecnico,media
+465,Modifica piano vendite,"Gentilmente, il/la piano vendite deve essere aggiornato. Attendo aggiornamento. Sollecito cortesemente una risposta.",Commerciale,media
+470,consegna da rivedere,Il cliente ha segnalato che il/la consegna deve essere aggiornato.,Commerciale,bassa
+446,campione gratuito da rivedere,Il cliente ha segnalato che il/la campione gratuito non è stato ricevuto.,Commerciale,bassa
+230,Malfunzionamento aggiornamento firmware,Ho riscontrato che il/la aggiornamento firmware richiede aggiornamento. Attendo riscontro entro oggi se possibile.,Tecnico,media
+196,Malfunzionamento rete interna,Da ieri il/la rete interna ha smesso di funzionare. Impossibile lavorare.,Tecnico,bassa
+457,Richiesta aggiornamento scontistica,"Gentilmente, il/la scontistica non corrisponde alla richiesta. Attendo aggiornamento. Sollecito cortesemente una risposta.",Commerciale,media
+192,Malfunzionamento aggiornamento firmware,"Urgente: aggiornamento firmware non risponde ai comandi, reparto fermo.",Tecnico,bassa
+216,Malfunzionamento bug nel software,Il/la bug nel software è irraggiungibile. Ho già provato a riavviare.,Tecnico,bassa
+331,Errore backup,Il/la backup si blocca all'avvio da questa mattina.,Tecnico,bassa
+374,Segnalazione su promozione,"Segnalo che il/la promozione necessita revisione. La scadenza è imminente, serve un riscontro.",Commerciale,media
+329,Guasto crash applicazione,Ho riscontrato che il/la crash applicazione richiede aggiornamento.,Tecnico,bassa
+393,Sollecito campione gratuito,Il/la campione gratuito non corrisponde alla richiesta. Chiedo cortesemente una verifica.,Commerciale,bassa
+70,Verifica scadenza fiscale,Si richiede la rettifica del/della scadenza fiscale in quanto non è stato registrato.,Amministrazione,bassa
+394,Problema con spedizione,Il/la spedizione non corrisponde alla richiesta. Si prega di intervenire. Sollecito cortesemente una risposta.,Commerciale,media
+93,Segnalazione errore su contributo INPS,"Il/la contributo INPS relativo al mese corrente non corrisponde. La scadenza è imminente, serve un riscontro.",Amministrazione,media
+210,Malfunzionamento software gestionale,Il/la software gestionale non risponde ai comandi. Ho già provato a riavviare. Urgente: il reparto è fermo.,Tecnico,alta
+147,Segnalazione errore su bilancio,Segnalo che il/la bilancio deve essere corretto e necessita intervento.,Amministrazione,bassa
+17,Anomalia partita IVA,"Il documento partita IVA è in sospeso, si prega di verificare.",Amministrazione,bassa
+242,Malfunzionamento backup,Il/la backup richiede aggiornamento. Ho già provato a riavviare.,Tecnico,bassa
+494,Modifica lead commerciale,Il/la lead commerciale necessita revisione. Si prega di intervenire. È un errore critico che impedisce l'operatività.,Commerciale,alta
+36,Richiesta correzione partita IVA,Il/la partita IVA relativo al mese corrente risulta errato. L'anomalia va risolta in tempi brevi.,Amministrazione,media
+458,Richiesta aggiornamento campione gratuito,"Buongiorno, il/la campione gratuito necessita revisione. Urgente per il cliente. La scadenza è imminente, serve un riscontro.",Commerciale,media
+479,spedizione da rivedere,"Buongiorno, il/la spedizione non è stato ricevuto. Urgente per il cliente.",Commerciale,bassa
+31,Segnalazione errore su bonifico,"Buongiorno, il/la bonifico presenta anomalie. Chiedo assistenza. Il sistema è down, emergenza.",Amministrazione,alta
+278,bug nel software non disponibile,"Urgente: bug nel software si blocca all'avvio, reparto fermo. Impossibile lavorare senza risoluzione.",Tecnico,alta
+33,F24 non conforme,In riferimento al/alla F24: non è stato registrato. Attendo riscontro. L'anomalia va risolta in tempi brevi.,Amministrazione,media
+359,Segnalazione su campione gratuito,Il/la campione gratuito richiede approvazione. Chiedo cortesemente una verifica.,Commerciale,bassa
+177,server aziendale non disponibile,Il/la server aziendale non risponde ai comandi. Ho già provato a riavviare. Attendo riscontro entro oggi se possibile.,Tecnico,media
+217,firewall non disponibile,Il/la firewall mostra messaggi di errore. Ho già provato a riavviare. C'è un ritardo significativo da gestire.,Tecnico,media
